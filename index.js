@@ -338,8 +338,8 @@ for (let i=0; i<movies.length; i++){
 }
 console.log(thisdecades)
 }
-OnlyThisMillennium(movies)
 
+OnlyThisMillennium(movies);
 /* Ex.16 
     Write the function getMovieById that receives an id and returns the movie with the given id.
 */
